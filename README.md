@@ -1,2 +1,2 @@
-# 341-web-design-Spring2021-resources
+# Rogelio Mares Mart341-WebDesign
  Issues Repo
